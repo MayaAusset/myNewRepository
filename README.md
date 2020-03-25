@@ -2,6 +2,6 @@
 This is myFirstRepository !
 
 
-My new repository is called "Hello World",
+My first repository is called "myFirstRepository",
 how original, right ?
 
